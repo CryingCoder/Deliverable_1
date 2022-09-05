@@ -1,0 +1,15 @@
+C:\Users\TCC\source\repos\GC\deliverable1\bin\Debug\net6.0\deliverable1.exe
+C:\Users\TCC\source\repos\GC\deliverable1\bin\Debug\net6.0\deliverable1.deps.json
+C:\Users\TCC\source\repos\GC\deliverable1\bin\Debug\net6.0\deliverable1.runtimeconfig.json
+C:\Users\TCC\source\repos\GC\deliverable1\bin\Debug\net6.0\deliverable1.dll
+C:\Users\TCC\source\repos\GC\deliverable1\bin\Debug\net6.0\deliverable1.pdb
+C:\Users\TCC\source\repos\GC\deliverable1\obj\Debug\net6.0\deliverable1.csproj.AssemblyReference.cache
+C:\Users\TCC\source\repos\GC\deliverable1\obj\Debug\net6.0\deliverable1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TCC\source\repos\GC\deliverable1\obj\Debug\net6.0\deliverable1.AssemblyInfoInputs.cache
+C:\Users\TCC\source\repos\GC\deliverable1\obj\Debug\net6.0\deliverable1.AssemblyInfo.cs
+C:\Users\TCC\source\repos\GC\deliverable1\obj\Debug\net6.0\deliverable1.csproj.CoreCompileInputs.cache
+C:\Users\TCC\source\repos\GC\deliverable1\obj\Debug\net6.0\deliverable1.dll
+C:\Users\TCC\source\repos\GC\deliverable1\obj\Debug\net6.0\refint\deliverable1.dll
+C:\Users\TCC\source\repos\GC\deliverable1\obj\Debug\net6.0\deliverable1.pdb
+C:\Users\TCC\source\repos\GC\deliverable1\obj\Debug\net6.0\deliverable1.genruntimeconfig.cache
+C:\Users\TCC\source\repos\GC\deliverable1\obj\Debug\net6.0\ref\deliverable1.dll
